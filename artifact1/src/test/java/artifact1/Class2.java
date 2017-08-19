@@ -19,6 +19,7 @@ public class Class2 {
 		
 		System.out.println("----- login method");
 		System.out.println("Updated repository");
+		System.out.println("Updated repository 2");
 	}
 	
 	@Test
