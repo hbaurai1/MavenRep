@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" thread-count="2" parallel="classes">
+  <test name="Test1-abc" >
+    <classes>
+       <class name="artifact1.Class1"/>
+       <class name="artifact1.Class2"/>
+    </classes>
+  </test>
+
+  <!-- <test name="Test2-def">
+    <classes>
+      <class name="artifact1.Class2"/>
+     </classes>
+  </test> -->
+</suite>
