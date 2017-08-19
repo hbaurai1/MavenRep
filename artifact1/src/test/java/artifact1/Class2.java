@@ -18,7 +18,7 @@ public class Class2 {
 	driver.quit();*/
 		
 		System.out.println("----- login method");
-	
+		System.out.println("Updated repository");
 	}
 	
 	@Test
